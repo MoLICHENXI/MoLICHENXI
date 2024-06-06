@@ -3,11 +3,11 @@
 - :telescope: Exploring: Diffusion Language Model & Long Document Summarization & Large Language Model
 
 
-⚡ **Recent** ⚡
+⚡ **Recent**
 
 💬☲ One 𝐩𝐚𝐩𝐞𝐫 got accepted in NAACL-2024 findings
 
-**Others**
+⚡ **Others**
 
 Reviewer of TKDE
 
